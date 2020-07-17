@@ -1,3 +1,6 @@
+@import "../node_modules/tabulator-tables/src/scss/tabulator_simple.scss";
+
+
 .tabulator {
     font-size: 12px;
     border: none;
@@ -45,7 +48,3 @@
     background-color: #ffffff;
  }
 
-//  .tabulator-footer {
-//     bottom: 0px;
-//     position: fixed;
-//  }

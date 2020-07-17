@@ -1,4 +1,6 @@
 import { CompanyDataPoint } from './Models';
+import {formatDate} from '@angular/common';
+
 import * as _ from 'lodash';
 
 
